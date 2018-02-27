@@ -87,14 +87,14 @@
 
 	首页：
 	
-![image 首页](https://github.com/XinOnAir/LocalHost-Proxy-Switcher/raw/master/preview/LVS_A01_home.png)
+![image 首页](https://github.com/XinOnAir/LocalHost-Proxy-Switcher/raw/master/preview/LPS_A01_home.png)
 
 
 	已保存：
 	
-![image 已保存](https://github.com/XinOnAir/LocalHost-Proxy-Switcher/raw/master/preview/LVS_A02_saved.png)
+![image 已保存](https://github.com/XinOnAir/LocalHost-Proxy-Switcher/raw/master/preview/LPS_A02_saved.png)
 
 
 	新增：
 	
-![image 新增](https://github.com/XinOnAir/LocalHost-Proxy-Switcher/raw/master/preview/LVS_A03_new.png)
+![image 新增](https://github.com/XinOnAir/LocalHost-Proxy-Switcher/raw/master/preview/LPS_A03_new.png)
