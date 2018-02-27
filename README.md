@@ -1,4 +1,4 @@
-# LocalHost-Proxy-Switcher
+# LocalHost Proxy Switcher
 
 
 系统要求：MacOS
