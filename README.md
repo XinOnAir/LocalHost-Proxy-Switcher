@@ -99,11 +99,11 @@
 ![image 首页](https://github.com/XinOnAir/LocalHost-Proxy-Switcher/raw/master/design/preview/LPS_A01_home.png)
 
 
-	已保存：
+	已保存状态页：
 	
 ![image 已保存](https://github.com/XinOnAir/LocalHost-Proxy-Switcher/raw/master/design/preview/LPS_A02_saved.png)
 
 
-	新增：
+	新增地址状态页：
 	
 ![image 新增](https://github.com/XinOnAir/LocalHost-Proxy-Switcher/raw/master/design/preview/LPS_A03_new.png)
