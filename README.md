@@ -83,13 +83,6 @@
 	5.本着开源共享的初衷，任何合作开发行为均以免费自愿的原则进行；
 
 
-界面（目前）：
-
-	目前：
-	
-![image 首页](https://github.com/XinOnAir/LocalHost-VPN-Switcher/raw/master/preview/LVS_A01_home_present.png)
-
-
 界面（未来）：
 
 	首页：
