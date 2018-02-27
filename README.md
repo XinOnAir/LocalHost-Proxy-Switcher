@@ -82,6 +82,13 @@
 	4.根据界面增加部分功能，目的在于更加方便的使用程序；
 	5.本着开源共享的初衷，任何合作开发行为均以免费自愿的原则进行；
 
+界面（目前）：
+
+	首页：
+	
+![image 首页](https://github.com/XinOnAir/LocalHost-Proxy-Switcher/raw/master/preview/LPS_A01_present.png)
+
+
 
 界面（未来）：
 
