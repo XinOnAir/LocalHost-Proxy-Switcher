@@ -86,7 +86,7 @@
 
 	首页：
 	
-![image 首页](https://github.com/XinOnAir/LocalHost-Proxy-Switcher/raw/master/preview/LPS_A01_present.png)
+![image 首页](https://github.com/XinOnAir/LocalHost-Proxy-Switcher/raw/master/preview/LPS_A01_home_present.png)
 
 
 
