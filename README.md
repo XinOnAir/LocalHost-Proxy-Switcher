@@ -83,9 +83,6 @@
 
 
 界面：
-
-	![首页] (https://github.com/XinOnAir/LocalHost-VPN-Switcher/raw/master/preview/LVS／A01／首页.png)
-	
-	![已保存] (https://github.com/XinOnAir/LocalHost-VPN-Switcher/raw/master/preview/LVS／A02／已保存.png)
-
-	![新增] (https://github.com/XinOnAir/LocalHost-VPN-Switcher/raw/master/preview/LVS／A03／新增.png)
+![首页] (https://github.com/XinOnAir/LocalHost-VPN-Switcher/raw/master/preview/LVS／A01／首页.png)
+![已保存] (https://github.com/XinOnAir/LocalHost-VPN-Switcher/raw/master/preview/LVS／A02／已保存.png)
+![新增] (https://github.com/XinOnAir/LocalHost-VPN-Switcher/raw/master/preview/LVS／A03／新增.png)
